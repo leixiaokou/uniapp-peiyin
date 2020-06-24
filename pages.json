@@ -1,0 +1,49 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",  
+			"style": {
+				"navigationBarTitleText": "AI智能配音助手",
+				"enablePullDownRefresh": true
+			}
+		},
+        {
+            "path" : "pages/link/link",
+            "style" : {
+				"navigationBarTitleText": "有趣小程序"
+			}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black", 
+		"navigationBarTitleText": "热门热评",
+		"navigationBarBackgroundColor": "#FFFFFF", 
+		"backgroundColor": "#FFFFFF"
+	},
+	"navigateToMiniProgramAppIdList": [
+	    "ttefa9991470933da0",
+		"ttd963afde4659fe74",
+		"tt49763fcbd64c6e78"
+	],  
+	"tabBar": {
+		        "borderStyle": "black",
+		        "backgroundColor": "#333",
+		        "color": "#8F8F94",    
+				"fontSize" : "24upx", 
+		        "selectedColor": "#1E90FF",
+		        "list": [
+					   {
+						   "pagePath": "pages/index/index",
+						   "text": "AI配音",
+						   "iconPath": "static/voice.png",   
+						   "selectedIconPath": "static/voice-active.png"
+					   },
+					   {
+						   "pagePath": "pages/link/link",
+						   "text": "更多小程序",
+						   "iconPath": "static/mini.png",
+						   "selectedIconPath": "static/mini-active.png" 
+					   }
+		        ]
+    }
+}
