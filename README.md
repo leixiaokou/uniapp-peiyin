@@ -6,7 +6,7 @@
 ### UI
 <img src="https://leijun-common.oss-cn-shenzhen.aliyuncs.com/peiyin-ui.png"/>
 
-### 作品展示
+### 作品体验
 
 <img src="https://leijun-common.oss-cn-shenzhen.aliyuncs.com/peiyin-union.jpg"/>
 
