@@ -239,7 +239,7 @@
 			  })
 			  var that = this
 			  uni.request({
-			    url: this.requestUrl + 'api/douyin/to-voice',
+			    url: this.requestUrl + '',
 			    method: 'post',
 			    data: data,
 			    header: {
