@@ -10,7 +10,7 @@
 *  修改main.js配置，
 
 ```
-Vue.prototype.requestUrl = 'https://api.taokeduo.cn/'   //接口域名
+Vue.prototype.requestUrl = ''   //接口域名
 index/index.vue 请求处也需要修改具体请求接口路径
 //使用接口方式搞友链需要配置各个端的APPID
 // #ifdef  MP-WEIXIN
